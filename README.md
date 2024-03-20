@@ -32,3 +32,15 @@ npm i install
     
 
 ![Screenshot (201)](https://github.com/ani1ta/manufacturing-flow/assets/105041651/ac87852e-a4cb-471e-8584-d2d85c8e7b27)
+
+![Screenshot (202)](https://github.com/ani1ta/manufacturing-flow/assets/105041651/cb274434-e7a4-47c1-9f63-9de663a4ff15)
+
+
+
+
+![Screenshot (203)](https://github.com/ani1ta/manufacturing-flow/assets/105041651/04db19c0-257f-448d-927b-b34f83c4699b)
+![Screenshot (204)](https://github.com/ani1ta/manufacturing-flow/assets/105041651/dc3c3a45-f5e8-4193-bd2a-939c6635dda9)
+
+
+
+![Screenshot (205)](https://github.com/ani1ta/manufacturing-flow/assets/105041651/8b4a2b16-27a7-458b-911d-7d36dbcb91d5)
